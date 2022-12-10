@@ -5,14 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="229e5142-f9f8-4f3c-b82c-b2dfc412bea9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../day-02/src/main/kotlin/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-02/src/main/kotlin/lib/Move.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-02/src/main/kotlin/lib/part1.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-02/src/main/kotlin/lib/part2.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-02/src/main/resources/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-02/src/test/kotlin/lib/Part1KtTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-02/src/test/kotlin/lib/Part2KtTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-02/src/test/resources/input.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-04/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-04/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-04/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-04/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-04/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-04/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-04/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-04/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-04/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-04/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-03/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-03/src/main/kotlin/lib/parseItem.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-03/src/main/kotlin/lib/part1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-03/src/main/kotlin/lib/part2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-03/src/main/resources/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-03/src/test/kotlin/lib/Part1KtTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-03/src/test/kotlin/lib/Part2KtTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-03/src/test/resources/input.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
