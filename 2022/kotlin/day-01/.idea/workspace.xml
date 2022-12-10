@@ -5,28 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="229e5142-f9f8-4f3c-b82c-b2dfc412bea9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../day-02/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/src/main/kotlin/lib/Move.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/src/main/kotlin/lib/part1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/src/main/kotlin/lib/part2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/src/main/resources/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/src/test/kotlin/lib/MoveTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/src/test/kotlin/lib/Part1KtTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/src/test/kotlin/lib/Part2KtTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/src/test/resources/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-02/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-02/src/main/kotlin/lib/Move.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-02/src/main/kotlin/lib/part1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-02/src/main/kotlin/lib/part2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-02/src/main/resources/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-02/src/test/kotlin/lib/Part1KtTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-02/src/test/kotlin/lib/Part2KtTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-02/src/test/resources/input.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
